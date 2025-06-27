@@ -110,7 +110,11 @@ body {
 .product-button:hover {
     background-color: #c0392b;
 }
-
+.product-category{
+    width: 100vw;
+    padding: 20px 10px;
+    text-align: center;
+}
 /* Pseudo-elements - Sale badge */
 .product-card::before {
     content: "SALE";
